@@ -16,7 +16,7 @@ class Main {
 
         total = porHora * horasPorMes;
 
-        System.out.printf("Voce ganha R$ %.2f", total, " por mes");
+        System.out.printf("Voce ganha por mes: R$ %.2f", total);
 
     }
 }
